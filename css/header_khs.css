@@ -259,5 +259,8 @@ input {
         
     }
 
+    nav .logo_img{
+        display:none;
+    }
 
 }
