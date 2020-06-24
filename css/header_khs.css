@@ -256,9 +256,19 @@ input {
         display: block;
         
     }
+    [id^=nab]:checked + .fa-arrow-down {
+        display: block;
+        
+    }
+    
+    
+    
+    
     
     .show:hover .fa-arrow-down{
         color: #2b6af2;
+        
+        
         
     }
     .show_3:hover .fa-arrow-down{
@@ -275,5 +285,8 @@ input {
     nav .logo_img{
         display:none;
     }
+    
+    
+    
 
 }
