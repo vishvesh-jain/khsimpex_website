@@ -211,7 +211,7 @@ input {
     .show {
         display: block;
         color: black;
-        font-size: 18px;
+        font-size: 16px;
         padding: 0 20px;
         line-height: 70px;
         cursor: pointer;
@@ -224,7 +224,7 @@ input {
     .show_3 {
         display: block;
         color: black;
-        font-size: 18px;
+        font-size: 16px;
         padding: 0 40px;
         line-height: 70px;
         cursor: pointer;
@@ -256,6 +256,7 @@ input {
         display: block;
         
     }
+    
     .show:hover .fa-arrow-down{
         color: #2b6af2;
         
