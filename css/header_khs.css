@@ -256,10 +256,7 @@ input {
         display: block;
         
     }
-    [id^=nab]:checked + .fa-arrow-down {
-        display: block;
-        
-    }
+    
     
     
     
